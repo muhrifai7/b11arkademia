@@ -39,4 +39,5 @@ create table kategori
   id int primary key auto_increment,
   salary int(255) not null,
 );
-####![img1](https://user-images.githubusercontent.com/48577618/61576895-0e553a80-ab0a-11e9-91af-3aee294317ec.png) 
+### ![img1](https://user-images.githubusercontent.com/48577618/61576895-0e553a80-ab0a-11e9-91af-3aee294317ec.png) 
+### ![img2](https://user-images.githubusercontent.com/48577618/61576913-52e0d600-ab0a-11e9-9e67-6ab4e3447869.png)
