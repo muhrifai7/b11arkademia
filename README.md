@@ -1,5 +1,5 @@
 # Bootscamp Arkdemie 11
-## KLOter 4
+## KLOTER 4
 ### Dalam mengerjakan soal test ini saya mengunakan text editor,browser dan xammp sebagai DBMSnya
 
 ### REST API 
@@ -15,7 +15,7 @@ declare kedalam sebua variabel, sehingga tinggal di pakai dalam function dengan 
 #### 4 Saya mengunakan  class dengan memanfaatkan method dan get untuk memproses setiap parameternya
 #### 5 dan 6  on progres
 #### 7 A table Nama 
-create table Nama
+##### create table Nama
 (
   id int primary key auto_increment,
   name varchar(255) not null,
@@ -24,7 +24,7 @@ create table Nama
   id_salary int not null,
   FOREIGN key (id_salary) REFERENCES kategori(id)
 );
- table work 
+##### table work 
  
 create table work
 (
@@ -33,7 +33,7 @@ create table work
   id_salary int not null,
   FOREIGN key(id_salary) REFERENCES kategori(id),
 );
-table kategori
+##### table kategori
 create table kategori
 (
   id int primary key auto_increment,
